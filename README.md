@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Path to Success: Achieving Your Career Dreams</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>The Path to Success: Achieving Your Career Dreams</h1>
+  <h2>Career Goal: Graphic Designer</h2>
+  <p>I aspire to become a professional graphic designer who creates stunning visual content for brands, media, and publications. I am passionate about creativity, design tools, and visual storytelling.</p>
+
+  <img src="images/graphic-designer.jpg" alt="Graphic Designer at Work" class="career-image">
+
+  <nav>
+    <a href="steps.html">Step by Step Guide</a> |
+    <a href="inspiration.html">Inspiration & Resources</a>
+  </nav>
+</body>
+</html>
